@@ -58,5 +58,11 @@
     "new": "13",
     "old": "12",
     "version": "12.18-1.pgdg120+2"
+  },
+  "11-to-12": {
+    "from": "postgres:12-bookworm",
+    "new": "12",
+    "old": "11",
+    "version": "11.22-1.pgdg120+1"
   }
 }
